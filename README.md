@@ -1,2 +1,1 @@
-# psalm-phar
-Deployment target for phar file generated in my fork of vimeo/psalm
+This allows you to install [Psalm](https://github.com/vimeo/psalm) without worrying about composer conflicts.
